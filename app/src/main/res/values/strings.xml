@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="default_notification_channel_id">sanzchannel</string>
+    <string name="msg_token_fmt" translatable="false"> sanztoken : %s</string>
+</resources>
